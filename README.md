@@ -11,10 +11,9 @@
  - Python
 ***
 ### Reachme in:
-📩 tomimuzzillo@gmail.com
+- 📩 tomimuzzillo@gmail.com
 
-![](https://as2.ftcdn.net/v2/jpg/03/96/56/19/1000_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg "Tomas Muzzillo" =80x80)
-[LinkedIn](https://www.linkedin.com/in/tomas-muzzillo-1464661a4/)
+- 👀 [LinkedIn](https://www.linkedin.com/in/tomas-muzzillo-1464661a4/)
 
 
 
