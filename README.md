@@ -1,5 +1,6 @@
-﻿# Hello, I'm Tomas Muzzillo, a Systems Engineering Student  and a Jr software developer full stack.
-## I'm from Villa Maria, Cordoba, Argentina.
+## Hello 👋, I'm Tomas Muzzillo, a Systems Engineering Student📚 and a Jr software developer full stack✍🏼.
+### I'm from Villa Maria, Cordoba, Argentina.
+***
 ### Currently, i'm more focused on BackEnd, but i still love learning new technologies and knowing about everything i can.
 ### Skills:
 
