@@ -1,4 +1,4 @@
-## Hello 👋, I'm Tomas Muzzillo, a Systems Engineering Student📚 and a Software Developer full stack✍🏼.
+## Hello 👋, I'm Tomas Muzzillo, a Systems Engineering Student📚 and a Software Engineer backend✍🏼.
 ### I'm from Villa Maria, Cordoba, Argentina.
 ***
 ### Currently, i'm more focused on BackEnd, but i still love learning new technologies and knowing about everything i can.
