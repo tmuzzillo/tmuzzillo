@@ -4,12 +4,14 @@
 ### Currently, i'm more focused on BackEnd, but i still love learning new technologies and knowing about everything i can.
 ### Skills:
 
- -  Java and SpringBoot
+ - Java and SpringBoot
+ - WebFlux
+ - Groovy & Grails
  - Java Script (HTML and CSS too)
  - SQL
  - Docker and kubernetes
  - Linux
- - Python
+ - AI with Python. Matlab, Sklearn, etc.
 ***
 ### Reachme in:
 - 📩 tomimuzzillo@gmail.com
